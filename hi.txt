@@ -1,0 +1,4 @@
+  MassH = open('MassHistory.txt','r')
+  VolumeH = open('VolumeHistory.txt','r')
+  WeightH = open('WeightHistory.txt','r')
+  DensityH = open('DensityHistory.txt','r')
